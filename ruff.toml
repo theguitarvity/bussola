@@ -1,0 +1,10 @@
+# Config única de lint/format, usada por mcp_server/ e agent/ (`make lint`).
+line-length = 100
+target-version = "py312"
+extend-exclude = ["contracts/fixtures"]
+
+[lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[lint.isort]
+known-first-party = ["bussola_mcp", "bussola_agent"]

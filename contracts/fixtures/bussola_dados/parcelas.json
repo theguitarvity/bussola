@@ -1,0 +1,110 @@
+[
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "descr": "cart credito loja esport parc 1/6",
+    "macro": "Compras",
+    "parcela_atual": 1,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202504,
+    "descr": "cart credito loja esport parc 2/6",
+    "macro": "Compras",
+    "parcela_atual": 2,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202505,
+    "descr": "cart credito loja esport parc 3/6",
+    "macro": "Compras",
+    "parcela_atual": 3,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "descr": "cart credito loja esport parc 4/6",
+    "macro": "Compras",
+    "parcela_atual": 4,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202507,
+    "descr": "cart credito loja esport parc 5/6",
+    "macro": "Compras",
+    "parcela_atual": 5,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202508,
+    "descr": "cart credito loja esport parc 6/6",
+    "macro": "Compras",
+    "parcela_atual": 6,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "descr": "cart credito loja esport parc 1/6",
+    "macro": "Compras",
+    "parcela_atual": 1,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202504,
+    "descr": "cart credito loja esport parc 2/6",
+    "macro": "Compras",
+    "parcela_atual": 2,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202505,
+    "descr": "cart credito loja esport parc 3/6",
+    "macro": "Compras",
+    "parcela_atual": 3,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "descr": "cart credito loja esport parc 4/6",
+    "macro": "Compras",
+    "parcela_atual": 4,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202507,
+    "descr": "cart credito loja esport parc 5/6",
+    "macro": "Compras",
+    "parcela_atual": 5,
+    "parcela_total": 6,
+    "vlr": 180.0
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202508,
+    "descr": "cart credito loja esport parc 6/6",
+    "macro": "Compras",
+    "parcela_atual": 6,
+    "parcela_total": 6,
+    "vlr": 180.0
+  }
+]

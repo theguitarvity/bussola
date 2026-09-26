@@ -1,0 +1,42 @@
+{
+  "dados": {
+    "categorias": [
+      {
+        "macro": "Alimentação",
+        "micro": "Restaurantes",
+        "media_mensal": 360.0,
+        "discricionaria": true,
+        "economia_potencial_mensal": 108.0,
+        "criterio": "discricionária; corte máximo de 30% da média"
+      },
+      {
+        "macro": "Compras",
+        "micro": "Loja de esportes",
+        "media_mensal": 90.0,
+        "discricionaria": true,
+        "economia_potencial_mensal": 27.0,
+        "criterio": "discricionária; corte máximo de 30% da média"
+      },
+      {
+        "macro": "Lazer",
+        "micro": "Assinaturas",
+        "media_mensal": 61.8,
+        "discricionaria": true,
+        "economia_potencial_mensal": 18.54,
+        "criterio": "discricionária; corte máximo de 30% da média"
+      }
+    ]
+  },
+  "fonte": {
+    "ferramenta": "oportunidades_corte",
+    "tabelas": [
+      "bussola_dados.gastos_categoria",
+      "bussola_dados.categorias"
+    ],
+    "periodo": {
+      "inicio": 202501,
+      "fim": 202512
+    }
+  },
+  "avisos": []
+}

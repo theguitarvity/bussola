@@ -37,6 +37,8 @@ merge se resolve pela união das linhas.
 ├── CLAUDE.md                          000  (convenções p/ Claude Code)
 ├── AGENTS.md                          007  (operação no Antigravity)
 ├── Makefile                           000  (acréscimo de targets)
+├── ruff.toml, .dockerignore           000  (lint único; contexto de build das imagens)
+├── .claude/skills/                    000  (skills do Spec Kit; versionadas)
 ├── .specify/                          000  (constituição congelada após 000)
 ├── specs/NNN-*/                       cada ciclo, só o seu NNN
 ├── contracts/                         000  (mudança só via PR "contracts:")
@@ -95,6 +97,9 @@ merge se resolve pela união das linhas.
 
 - **Linguagem:** Python 3.12 com `uv`. Há dois projetos independentes,
   `mcp_server/` e `agent/`, um por serviço Cloud Run.
+- **Servidor MCP:** pacote `fastmcp` (>=4,<5), que traz o SDK `mcp`. No `mcp` 2.x a
+  classe `FastMCP` foi renomeada para `MCPServer`; por isso o servidor e o teste de
+  contrato (`fastmcp.Client`) usam o pacote `fastmcp`.
 - **Qualidade:** testes com `pytest` e lint/format com `ruff`.
 - **Targets do Makefile:**
   - `make test` e `make lint` rodam nos dois projetos;
@@ -263,6 +268,14 @@ Códigos de erro:
 - `DADOS_INSUFICIENTES`
 - `INDISPONIVEL`
 
+**Onde a entrada é validada:** um argumento de **tipo** errado (por exemplo, texto onde vai
+inteiro) é recusado pelo protocolo MCP antes de chegar à ferramenta. As **faixas** e regras
+(UUID v4, `ate_anomes` de `202501` a `202512`, `top_n`/`k` de 1 a 10, `prazo_meses` de 1 a
+360, valores > 0, `pergunta` ≤ 500 caracteres, `resumo_mes.anomes` ≤ `ate_anomes`, e
+"exatamente um" entre `prazo_meses` e `aporte_mensal`) são validadas na própria ferramenta
+e devolvem `ENTRADA_INVALIDA`. Ordem: UUID → `ate_anomes` → argumentos da ferramenta →
+existência do usuário (`USUARIO_INEXISTENTE`).
+
 | Ferramenta | Prioridade | Entrada adicional | `dados` |
 |---|---|---|---|
 | `perfil_financeiro` | P0 | — | `renda_media, gasto_medio, sobra_media, sobra_mediana, fontes_renda[{macro, micro, media}], saldo{minimo, maximo, atual}, serie_mensal[{anomes, renda, gasto, sobra}], meses_considerados` |
@@ -275,6 +288,9 @@ Códigos de erro:
 | `resumo_mes` | P1 | `anomes` (≤ `ate_anomes`) | `anomes, renda, gasto, sobra, gastos_macro[{macro, total}]` (usado pelo 006) |
 | `referencia_coorte` | P1 | `categoria` (macro) | `faixa_renda, macro, media, mediana, qtd_usuarios` |
 
+- `simular_objetivo.modo` indica a **entrada** informada: `"prazo"` = veio `prazo_meses`
+  (o `aporte_mensal` é calculado); `"aporte"` = veio `aporte_mensal` (o `prazo_meses` é
+  calculado).
 - `trade_offs` são frases geradas por regra determinística (ex.: "exige
   reduzir R$ 250/mês em Restaurantes"). Não são geradas por LLM.
 - Nenhuma ferramenta aceita SQL nem devolve SQL, nomes de projeto ou
@@ -304,6 +320,13 @@ Códigos de erro:
 - A cadeia roda em ordem crescente, e o primeiro retorno não nulo interrompe
   a execução.
 - O `agent.py` (004) só instala os quatro callbacks agregados.
+- O ADK 2.10 chama os callbacks **por nome de argumento**, e as funções registradas são
+  chamadas do mesmo jeito (síncronas ou assíncronas):
+  `before_model(callback_context, llm_request)`,
+  `after_model(callback_context, llm_response)`,
+  `before_tool(tool, args, tool_context)` e
+  `after_tool(tool, args, tool_context, tool_response)`.
+- Uma exceção dentro de uma função registrada **propaga** (não é engolida).
 
 Ordens reservadas:
 
@@ -350,12 +373,17 @@ Permite que 005 e 006 acrescentem comportamento sem editar o `agent.py` do
 def registrar_ferramenta(fn: Callable, sensivel: bool = False) -> None: ...
 def registrar_instrucao(ordem: int, texto: str) -> None: ...   # trecho do prompt
 def ferramentas() -> list[Callable]: ...
+def sensiveis() -> set[str]: ...                                # nomes das ferramentas sensíveis
 def instrucoes() -> str: ...                                    # concatenadas por ordem
 def carregar_extensoes() -> None: ...
 ```
 
 - `carregar_extensoes()` importa `bussola_agent.governanca` e
-  `bussola_agent.acompanhamento` quando existirem e ignora `ImportError`.
+  `bussola_agent.acompanhamento` quando existirem. Ignora **só a ausência** do pacote:
+  qualquer erro dentro de um pacote presente (inclusive `ImportError` de um módulo que
+  ele importa) propaga.
+- `sensiveis()` devolve os nomes das ferramentas registradas com `sensivel=True`; é o
+  que o gate do 005 consulta.
 - O `__init__.py` de cada pacote registra suas ferramentas, instruções e
   callbacks.
 - O `agent.py` chama `carregar_extensoes()` e depois monta o
@@ -448,6 +476,22 @@ prontas, o 001 regenera as fixtures a partir delas (PR `contracts:`).
   - `ate_anomes = 202512` recebe o golden `__ate_202512`.
 - `rag/trechos_exemplo.json`: trechos no formato de
   `buscar_contexto_financeiro`, usados pelo fake do buscador.
+
+**Esclarecimentos do ciclo 000 (aditivos):**
+
+- `usuarios.json` tem o campo opcional `origem`: `base_real` (gerada da base) ou
+  `sintetico_teste` (extrato sintético mínimo, sem BigQuery). Enquanto `origem` for
+  `sintetico_teste`, os valores **não** são os do âncora real e a checagem de 1% da
+  lista abaixo só vale para `base_real` (`make test-bq`).
+- `ferramentas/_entradas.json` guarda as entradas fixas que geraram cada golden
+  (`top_n`, `valor_alvo`, `prazo_meses`, `pergunta`, `k`). Há golden das 6 ferramentas
+  P0 que não dependem do RAG; `buscar_contexto_financeiro` responde por
+  `BuscadorFake` sobre `rag/trechos_exemplo.json`, sem golden próprio.
+- O mock valida os argumentos livres, mas devolve sempre o golden do corte. Um usuário
+  **conhecido que não é o âncora** (o de controle) recebe `DADOS_INSUFICIENTES`, sem
+  nenhum dado do âncora.
+- `bussola_dados/referencia_coorte.json` é `[]`: a coorte exige a população inteira, que
+  o gerador não lê. O mock não registra `referencia_coorte` (P1).
 
 **Valores de referência do âncora** (média de 2025, `ate_anomes = 202512`,
 tolerância de 1%):

@@ -1,0 +1,27 @@
+{
+  "dados": {
+    "modo": "prazo",
+    "valor_alvo": 60000.0,
+    "aporte_mensal": 1666.67,
+    "prazo_meses": 36,
+    "viavel": true,
+    "folga_mensal": 3304.03,
+    "premissas": {
+      "rendimento_mensal": 0.0,
+      "saldo_inicial": 0.0,
+      "base_capacidade": "sobra_mediana",
+      "sobra_mediana": 4970.7
+    }
+  },
+  "fonte": {
+    "ferramenta": "simular_objetivo",
+    "tabelas": [
+      "bussola_dados.perfil_mensal"
+    ],
+    "periodo": {
+      "inicio": 202501,
+      "fim": 202512
+    }
+  },
+  "avisos": []
+}

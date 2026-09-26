@@ -1,0 +1,27 @@
+{
+  "dados": {
+    "parcelas_ativas": [
+      {
+        "descr": "cart credito loja esport parc 4/6",
+        "parcela_atual": 4,
+        "parcela_total": 6,
+        "valor": 180.0,
+        "meses_restantes": 2
+      }
+    ],
+    "juros_pagos_media": 19.47,
+    "comprometimento_renda_pct": 2.42
+  },
+  "fonte": {
+    "ferramenta": "dividas_e_parcelas",
+    "tabelas": [
+      "bussola_dados.parcelas",
+      "bussola_dados.perfil_mensal"
+    ],
+    "periodo": {
+      "inicio": 202501,
+      "fim": 202506
+    }
+  },
+  "avisos": []
+}

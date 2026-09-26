@@ -1,0 +1,44 @@
+[
+  {
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "discricionaria": true,
+    "corte_max_pct": 0.3
+  },
+  {
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "discricionaria": false,
+    "corte_max_pct": 0.0
+  },
+  {
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "discricionaria": true,
+    "corte_max_pct": 0.3
+  },
+  {
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "discricionaria": true,
+    "corte_max_pct": 0.3
+  },
+  {
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "discricionaria": false,
+    "corte_max_pct": 0.0
+  },
+  {
+    "macro": "Produtos financeiros",
+    "micro": "Juros",
+    "discricionaria": false,
+    "corte_max_pct": 0.0
+  },
+  {
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "discricionaria": false,
+    "corte_max_pct": 0.0
+  }
+]

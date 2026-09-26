@@ -1,0 +1,19 @@
+{
+  "dados": {
+    "parcelas_ativas": [],
+    "juros_pagos_media": 19.47,
+    "comprometimento_renda_pct": 0.0
+  },
+  "fonte": {
+    "ferramenta": "dividas_e_parcelas",
+    "tabelas": [
+      "bussola_dados.parcelas",
+      "bussola_dados.perfil_mensal"
+    ],
+    "periodo": {
+      "inicio": 202501,
+      "fim": 202512
+    }
+  },
+  "avisos": []
+}

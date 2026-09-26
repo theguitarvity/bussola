@@ -1,0 +1,85 @@
+{
+  "dados": {
+    "cenarios": [
+      {
+        "nome": "conservador",
+        "pct_capacidade": 0.4,
+        "aporte_mensal": 1974.28,
+        "prazo_meses": 31,
+        "viavel": true,
+        "cortes_sugeridos": [],
+        "trade_offs": [
+          "Aporte de R$ 1974/mês; atinge o valor-alvo em 31 meses.",
+          "Cabe no prazo desejado de 36 meses."
+        ]
+      },
+      {
+        "nome": "equilibrado",
+        "pct_capacidade": 0.6,
+        "aporte_mensal": 2961.42,
+        "prazo_meses": 21,
+        "viavel": true,
+        "cortes_sugeridos": [],
+        "trade_offs": [
+          "Aporte de R$ 2961/mês; atinge o valor-alvo em 21 meses.",
+          "Cabe no prazo desejado de 36 meses."
+        ]
+      },
+      {
+        "nome": "acelerado",
+        "pct_capacidade": 0.8,
+        "aporte_mensal": 4111.1,
+        "prazo_meses": 15,
+        "viavel": true,
+        "cortes_sugeridos": [
+          {
+            "macro": "Alimentação",
+            "micro": "Restaurantes",
+            "valor_mensal": 108.0
+          },
+          {
+            "macro": "Compras",
+            "micro": "Loja de esportes",
+            "valor_mensal": 36.0
+          },
+          {
+            "macro": "Lazer",
+            "micro": "Assinaturas",
+            "valor_mensal": 18.54
+          }
+        ],
+        "trade_offs": [
+          "Aporte de R$ 4111/mês; atinge o valor-alvo em 15 meses.",
+          "Cabe no prazo desejado de 36 meses.",
+          "Exige reduzir R$ 108/mês em Restaurantes.",
+          "Exige reduzir R$ 36/mês em Loja de esportes.",
+          "Exige reduzir R$ 19/mês em Assinaturas."
+        ]
+      }
+    ],
+    "regras": {
+      "pct_capacidade": {
+        "conservador": 0.4,
+        "equilibrado": 0.6,
+        "acelerado": 0.8
+      },
+      "base": "sobra_mediana",
+      "rendimento_mensal": 0.0,
+      "saldo_inicial": 0.0,
+      "acelerado_inclui_cortes": true
+    }
+  },
+  "fonte": {
+    "ferramenta": "comparar_cenarios",
+    "tabelas": [
+      "bussola_dados.perfil_mensal",
+      "bussola_dados.gastos_categoria",
+      "bussola_dados.categorias"
+    ],
+    "periodo": {
+      "inicio": 202501,
+      "fim": 202506
+    }
+  },
+  "avisos": []
+}

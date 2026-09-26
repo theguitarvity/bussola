@@ -1,0 +1,16 @@
+# Contexto de build = raiz do repositório (ver specs/000-fundacao-contratos/research.md R6).
+.git
+.claude
+.specify
+.spec-master
+specs
+docs
+.obsidian
+**/.venv
+**/__pycache__
+**/.pytest_cache
+**/.ruff_cache
+**/tests
+.env
+.env.*
+!.env.example

@@ -1,0 +1,78 @@
+{
+  "dados": {
+    "renda_media": 7450.0,
+    "gasto_medio": 2548.77,
+    "sobra_media": 4901.23,
+    "sobra_mediana": 4935.7,
+    "fontes_renda": [
+      {
+        "macro": "Salários e bonificações",
+        "micro": "Salário",
+        "media": 7000.0
+      },
+      {
+        "macro": "Recebimentos diversos",
+        "micro": "Pix",
+        "media": 450.0
+      }
+    ],
+    "saldo": {
+      "minimo": -225.0,
+      "maximo": 31807.6,
+      "atual": 29907.4
+    },
+    "serie_mensal": [
+      {
+        "anomes": 202501,
+        "renda": 7450.0,
+        "gasto": 2376.8,
+        "sobra": 5073.2
+      },
+      {
+        "anomes": 202502,
+        "renda": 7500.0,
+        "gasto": 2471.8,
+        "sobra": 5028.2
+      },
+      {
+        "anomes": 202503,
+        "renda": 7400.0,
+        "gasto": 2715.2,
+        "sobra": 4684.8
+      },
+      {
+        "anomes": 202504,
+        "renda": 7450.0,
+        "gasto": 2491.8,
+        "sobra": 4958.2
+      },
+      {
+        "anomes": 202505,
+        "renda": 7500.0,
+        "gasto": 2586.8,
+        "sobra": 4913.2
+      },
+      {
+        "anomes": 202506,
+        "renda": 7400.0,
+        "gasto": 2650.2,
+        "sobra": 4749.8
+      }
+    ],
+    "meses_considerados": 6
+  },
+  "fonte": {
+    "ferramenta": "perfil_financeiro",
+    "tabelas": [
+      "bussola_dados.perfil_mensal",
+      "bussola_dados.entradas_categoria"
+    ],
+    "periodo": {
+      "inicio": 202501,
+      "fim": 202506
+    }
+  },
+  "avisos": [
+    "Saldo ficou negativo em 1 mês do período."
+  ]
+}

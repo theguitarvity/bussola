@@ -1,0 +1,1122 @@
+[
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202501,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 640.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202501,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202501,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202501,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 725.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202501,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 150.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202502,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 680.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202502,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202502,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202502,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 750.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202502,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 720.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 775.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "macro": "Produtos financeiros",
+    "micro": "Juros",
+    "total": 58.4,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 120.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202504,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 600.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202504,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202504,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202504,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202504,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 700.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202504,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 150.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202505,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 640.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202505,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202505,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202505,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202505,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 725.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202505,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 680.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 750.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "macro": "Produtos financeiros",
+    "micro": "Juros",
+    "total": 58.4,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 120.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202507,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 720.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202507,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202507,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202507,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202507,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 775.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202507,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 150.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202508,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 600.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202508,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202508,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202508,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202508,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 700.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202508,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202509,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 640.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202509,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202509,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202509,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 725.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202509,
+    "macro": "Produtos financeiros",
+    "micro": "Juros",
+    "total": 58.4,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202509,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 120.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202510,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 680.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202510,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202510,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202510,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 750.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202510,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 150.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202511,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 720.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202511,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202511,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202511,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 775.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202511,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202512,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 600.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202512,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1650.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202512,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202512,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 700.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202512,
+    "macro": "Produtos financeiros",
+    "micro": "Juros",
+    "total": 58.4,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202512,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 120.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202501,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 340.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202501,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202501,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202501,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 725.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202501,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 150.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202502,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 380.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202502,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202502,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202502,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 750.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202502,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 420.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 775.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "macro": "Produtos financeiros",
+    "micro": "Juros",
+    "total": 58.4,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 120.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202504,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 300.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202504,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202504,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202504,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202504,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 700.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202504,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 150.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202505,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 340.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202505,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202505,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202505,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202505,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 725.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202505,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 380.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 750.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "macro": "Produtos financeiros",
+    "micro": "Juros",
+    "total": 58.4,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 120.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202507,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 420.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202507,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202507,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202507,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202507,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 775.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202507,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 150.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202508,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 300.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202508,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202508,
+    "macro": "Compras",
+    "micro": "Loja de esportes",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202508,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202508,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 700.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202508,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202509,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 340.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202509,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202509,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202509,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 725.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202509,
+    "macro": "Produtos financeiros",
+    "micro": "Juros",
+    "total": 58.4,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202509,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 120.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202510,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 380.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202510,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202510,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202510,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 750.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202510,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 150.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202511,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 420.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202511,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202511,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202511,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 775.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202511,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 180.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202512,
+    "macro": "Alimentação",
+    "micro": "Restaurantes",
+    "total": 300.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202512,
+    "macro": "Casa",
+    "micro": "Aluguel",
+    "total": 1100.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202512,
+    "macro": "Lazer",
+    "micro": "Assinaturas",
+    "total": 61.8,
+    "qtd": 2
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202512,
+    "macro": "Mercado",
+    "micro": "Supermercado",
+    "total": 700.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202512,
+    "macro": "Produtos financeiros",
+    "micro": "Juros",
+    "total": 58.4,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202512,
+    "macro": "Transporte",
+    "micro": "Aplicativo",
+    "total": 120.0,
+    "qtd": 1
+  }
+]

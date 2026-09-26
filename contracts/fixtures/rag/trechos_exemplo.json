@@ -1,0 +1,50 @@
+[
+  {
+    "doc_id": "ficha_mensal:36a21505-d6d4-42d3-b319-d51a133c7269:202503",
+    "tipo": "ficha_mensal",
+    "anomes": 202503,
+    "texto": "Ficha de 2025-03: renda R$ 7400.00, gasto R$ 2715.20, sobra R$ 4684.80. Maiores gastos: Casa (R$ 1100.00), Mercado (R$ 775.00).",
+    "score": 0.0,
+    "origem": {
+      "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+      "anomes": 202503,
+      "categoria": null
+    }
+  },
+  {
+    "doc_id": "perfil_anual:36a21505-d6d4-42d3-b319-d51a133c7269:202512",
+    "tipo": "perfil_anual",
+    "anomes": 202512,
+    "texto": "Perfil de 2025: renda média R$ 7450.00, gasto médio R$ 2518.77, sobra mediana R$ 4970.70.",
+    "score": 0.0,
+    "origem": {
+      "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+      "anomes": 202512,
+      "categoria": null
+    }
+  },
+  {
+    "doc_id": "ficha_mensal:31e94f2f-1463-49f9-a41a-b3f220ed976a:202503",
+    "tipo": "ficha_mensal",
+    "anomes": 202503,
+    "texto": "Ficha de 2025-03: renda R$ 6900.00, gasto R$ 3565.20, sobra R$ 3334.80. Maiores gastos: Casa (R$ 1650.00), Mercado (R$ 775.00).",
+    "score": 0.0,
+    "origem": {
+      "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+      "anomes": 202503,
+      "categoria": null
+    }
+  },
+  {
+    "doc_id": "coorte:Casa",
+    "tipo": "coorte",
+    "anomes": null,
+    "texto": "Referência de coorte (exemplo de teste com 2 usuários): a média mensal de gasto em Casa é R$ 1375.00.",
+    "score": 0.0,
+    "origem": {
+      "id_usuario": null,
+      "anomes": null,
+      "categoria": "Casa"
+    }
+  }
+]

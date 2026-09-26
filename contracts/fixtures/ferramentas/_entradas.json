@@ -1,0 +1,17 @@
+{
+  "oportunidades_corte": {
+    "top_n": 5
+  },
+  "simular_objetivo": {
+    "valor_alvo": 60000.0,
+    "prazo_meses": 36
+  },
+  "comparar_cenarios": {
+    "valor_alvo": 60000.0,
+    "prazo_meses": 36
+  },
+  "buscar_contexto_financeiro": {
+    "pergunta": "quanto gasto com comer fora?",
+    "k": 5
+  }
+}

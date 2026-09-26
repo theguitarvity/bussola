@@ -1,0 +1,386 @@
+[
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202501,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 450.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202501,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202502,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202502,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 400.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202503,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202504,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 450.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202504,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202505,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202505,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 400.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202506,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202507,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 450.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202507,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202508,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202508,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202509,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 400.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202509,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202510,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 450.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202510,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202511,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202511,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202512,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 400.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "31e94f2f-1463-49f9-a41a-b3f220ed976a",
+    "anomes": 202512,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 6500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202501,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 450.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202501,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202502,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202502,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 400.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202503,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202504,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 450.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202504,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202505,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202505,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 400.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202506,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202507,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 450.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202507,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202508,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202508,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202509,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 400.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202509,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202510,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 450.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202510,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202511,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 500.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202511,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202512,
+    "macro": "Recebimentos diversos",
+    "micro": "Pix",
+    "total": 400.0,
+    "qtd": 1
+  },
+  {
+    "id_usuario": "36a21505-d6d4-42d3-b319-d51a133c7269",
+    "anomes": 202512,
+    "macro": "Salários e bonificações",
+    "micro": "Salário",
+    "total": 7000.0,
+    "qtd": 1
+  }
+]

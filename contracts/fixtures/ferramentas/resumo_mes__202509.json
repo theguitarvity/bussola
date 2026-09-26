@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "anomes": 202509,
+    "renda": 7400.0,
+    "gasto": 2405.2,
+    "sobra": 4994.8,
+    "gastos_macro": [
+      {
+        "macro": "Casa",
+        "total": 1100.0
+      },
+      {
+        "macro": "Mercado",
+        "total": 725.0
+      },
+      {
+        "macro": "Alimentação",
+        "total": 340.0
+      },
+      {
+        "macro": "Transporte",
+        "total": 120.0
+      },
+      {
+        "macro": "Lazer",
+        "total": 61.8
+      },
+      {
+        "macro": "Produtos financeiros",
+        "total": 58.4
+      }
+    ]
+  },
+  "fonte": {
+    "ferramenta": "resumo_mes",
+    "tabelas": [
+      "bussola_dados.perfil_mensal",
+      "bussola_dados.gastos_categoria"
+    ],
+    "periodo": {
+      "inicio": 202509,
+      "fim": 202509
+    }
+  },
+  "avisos": []
+}

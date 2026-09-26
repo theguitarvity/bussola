@@ -1,0 +1,20 @@
+{
+  "dados": {
+    "sobra_media": 4931.23,
+    "sobra_mediana": 4970.7,
+    "desvio_padrao": 123.23,
+    "meses_negativos": 0,
+    "meses_considerados": 12
+  },
+  "fonte": {
+    "ferramenta": "capacidade_poupanca",
+    "tabelas": [
+      "bussola_dados.perfil_mensal"
+    ],
+    "periodo": {
+      "inicio": 202501,
+      "fim": 202512
+    }
+  },
+  "avisos": []
+}
